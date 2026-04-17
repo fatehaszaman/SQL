@@ -1,10 +1,10 @@
 # SQL
 
-SQL assignments from Database & Data Warehousing Systems coursework at Loyola University Chicago (INFS 321).
+SQL assignments from a Database and Data Warehousing Systems course. Covers the full range of query writing: joins, aggregations, subqueries, views, and data modeling.
 
 ## Contents
 
-- `Assignment/` — Homework sets (5–9) covering queries, joins, aggregations, subqueries, views, and data modeling
+`Assignment/` contains homework sets 5 through 9. Each one builds on the previous in terms of complexity -- starting with basic SELECT/WHERE/JOIN patterns and moving into multi-table aggregations, correlated subqueries, and view definitions.
 
 ## Stack
 
